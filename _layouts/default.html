@@ -24,7 +24,7 @@
       </div>
     </div>
 
-    <label for="sidebar-checkbox" class="sidebar-toggle" checked></label>
+    <label for="sidebar-checkbox" class="sidebar-toggle"></label>
 
     <script>
       (function(document) {
@@ -39,7 +39,7 @@
              sidebar.contains(target) ||
              (target === checkbox || target === toggle)) return;
 
-          checkbox.checked = false;
+          checkbox.checked = true;
         }, false);
       })(document);
     </script>
