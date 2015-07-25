@@ -1,16 +1,16 @@
 # Permalinks
 #
 # Use of `relative_permalinks` ensures post links from the index work properly.
-permalink:           'pretty'
+permalink:           pretty
 relative_permalinks: true
 
 # Setup
-title:              'Paleomedia'
-tagline:             'Nathaniel Hoffman's digital repository'
-description:         'Journalist, author of @amorandexile, Paleomedia curator, @reviewblue editor, estudent, sometimes hunter/gatherer'
-url:                 http://paleomedia.github.io/
-baseurl:             ''
-paginate:            5
+title:              Paleomedia
+tagline:            'Nathaniel Hoffman's digital repository'
+description:        'Journalist, author of @amorandexile, Paleomedia curator, @reviewblue editor, estudent, sometimes hunter/gatherer'
+url:                http://paleomedia.github.io/
+baseurl:            ''
+paginate:           5
 
 # About/contact
 author:
