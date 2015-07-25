@@ -5,9 +5,9 @@ permalink:           pretty
 relative_permalinks: true
 
 # Setup
-title:               Paleomedia @ git
-tagline:             'Journalist, author of @amorandexile, Paleomedia curator, @reviewblue editor, estudent, sometimes hunter/gatherer'
-description:         'A digital portfolio'
+title:               Paleomedia
+tagline:             Nathaniel Hoffman's digital repository
+description:         "Journalist, author of @amorandexile, Paleomedia curator, @reviewblue editor, estudent, sometimes hunter/gatherer'
 url:                 http://paleomedia.github.io/
 baseurl:             ''
 paginate:            5
