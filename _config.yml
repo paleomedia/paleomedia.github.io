@@ -1,0 +1,22 @@
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+relative_permalinks: true
+
+# Setup
+title:               Paleomedia @ git
+tagline:             'Journalist, author of @amorandexile, Paleomedia curator, @reviewblue editor, estudent, sometimes hunter/gatherer'
+description:         'A digital portfolio'
+url:                 http://paleomedia.github.io/
+baseurl:             ''
+paginate:            5
+
+# About/contact
+author:
+  name:              Nathaniel Hoffman
+  url:               https://twitter.com/paleomedia
+  email:             nathaniel.hoffman@gmail.com
+
+# Custom vars
+version:             1.0.0
